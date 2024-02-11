@@ -26,11 +26,11 @@ footer a{
 }
 
 .footer__socials{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-    margin-bottom: 4rem;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 2rem !important;
+    margin-bottom: 4rem !important;
 }
 
 .footer__socials a{
