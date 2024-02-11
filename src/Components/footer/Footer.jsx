@@ -18,11 +18,11 @@ const Footer = () => {
         <li><a href="#testimonials">Testimonials</a></li>
       </ul>
       
-      <div className="footer__socials">
+{/*       <div className="footer__socials">
           <a href="https://facebook.com"><FaFacebookF /></a>
           <a href="https://instagram.com"><BsInstagram /></a>
           <a href="https://twitter.com"><BsTwitter /></a>
-      </div>
+      </div> */}
 
       <div className="footer__copyright">
         <small>&copy; Rodgen A. Valdez. All Rights Reserved.</small>
